@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="MainForm_Title">Filtro de Currículums</string>
+  <string name="Button_LoadResumes">Cargar Currículums</string>
+  <string name="Button_Search">Buscar</string>
+  <string name="Button_RankCandidates">Clasificar Candidatos</string>
+  <string name="Button_Sort">Ordenar</string>
+  <string name="Button_AdvancedSearch">Búsqueda Avanzada</string>
+  <string name="Button_ExportCSV">Exportar a CSV</string>
+  <string name="Button_Accept">Aceptar</string>
+  <string name="Button_Reject">Rechazar</string>
+  <string name="Status_Accepted">Aceptado</string>
+  <string name="Status_Rejected">Rechazado</string>
+  <string name="Status_Pending">Pendiente</string>
+  <string name="Menu_File">Archivo</string>
+  <string name="Menu_File_Export">Exportar a CSV...</string>
+  <string name="Menu_File_Exit">Salir</string>
+  <string name="Menu_Tools">Herramientas</string>
+  <string name="Menu_Tools_AdvancedSearch">Búsqueda Avanzada...</string>
+  <string name="Menu_Tools_ViewLogs">Ver Registros</string>
+  <string name="Menu_User">Usuario</string>
+  <string name="Menu_User_ChangePassword">Cambiar Contraseña...</string>
+  <string name="Menu_User_Logout">Cerrar Sesión</string>
+  <string name="Menu_Language">Idioma</string>
+  <string name="Menu_Help">Ayuda</string>
+  <string name="Menu_Help_About">Acerca de</string>
+  <string name="Dialog_OperationSuccess">Operación Completada Exitosamente</string>
+  <string name="Dialog_OperationFailed">La Operación Falló</string>
+  <string name="Dialog_Confirmation">Confirmación</string>
+  <string name="Dialog_Warning">Advertencia</string>
+  <string name="Dialog_Error">Error</string>
+  <string name="Dialog_Info">Información</string>
+  <string name="Filter_CSVFiles">Archivos CSV (*.csv)|*.csv|Todos los Archivos (*.*)|*.*</string>
+  <string name="Message_LoadSuccess">Currículums cargados exitosamente.</string>
+  <string name="Message_ExportSuccess">Currículums exportados exitosamente.</string>
+  <string name="Message_CandidateAccepted">Candidato aceptado exitosamente.</string>
+  <string name="Message_CandidateRejected">Candidato rechazado exitosamente.</string>
+  <string name="Message_NoResumesSelected">No hay currículums seleccionados.</string>
+  <string name="Message_LoginRequired">Por favor inicie sesión para continuar.</string>
+  <string name="Message_InvalidCredentials">Nombre de usuario o contraseña inválidos.</string>
+  <string name="Message_NoSearchResults">No se encontraron currículums coincidentes.</string>
+</resources>

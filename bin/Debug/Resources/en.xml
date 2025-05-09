@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="MainForm_Title">Resume Screener</string>
+  <string name="Button_LoadResumes">Load Resumes</string>
+  <string name="Button_Search">Search</string>
+  <string name="Button_RankCandidates">Rank Candidates</string>
+  <string name="Button_Sort">Sort</string>
+  <string name="Button_AdvancedSearch">Advanced Search</string>
+  <string name="Button_ExportCSV">Export to CSV</string>
+  <string name="Button_Accept">Accept</string>
+  <string name="Button_Reject">Reject</string>
+  <string name="Status_Accepted">Accepted</string>
+  <string name="Status_Rejected">Rejected</string>
+  <string name="Status_Pending">Pending</string>
+  <string name="Menu_File">File</string>
+  <string name="Menu_File_Export">Export to CSV...</string>
+  <string name="Menu_File_Exit">Exit</string>
+  <string name="Menu_Tools">Tools</string>
+  <string name="Menu_Tools_AdvancedSearch">Advanced Search...</string>
+  <string name="Menu_Tools_ViewLogs">View Logs</string>
+  <string name="Menu_User">User</string>
+  <string name="Menu_User_ChangePassword">Change Password...</string>
+  <string name="Menu_User_Logout">Logout</string>
+  <string name="Menu_Language">Language</string>
+  <string name="Menu_Help">Help</string>
+  <string name="Menu_Help_About">About</string>
+  <string name="Dialog_OperationSuccess">Operation Completed Successfully</string>
+  <string name="Dialog_OperationFailed">Operation Failed</string>
+  <string name="Dialog_Confirmation">Confirmation</string>
+  <string name="Dialog_Warning">Warning</string>
+  <string name="Dialog_Error">Error</string>
+  <string name="Dialog_Info">Information</string>
+  <string name="Filter_CSVFiles">CSV Files (*.csv)|*.csv|All Files (*.*)|*.*</string>
+  <string name="Message_LoadSuccess">Resumes loaded successfully.</string>
+  <string name="Message_ExportSuccess">Resumes exported successfully.</string>
+  <string name="Message_CandidateAccepted">Candidate accepted successfully.</string>
+  <string name="Message_CandidateRejected">Candidate rejected successfully.</string>
+  <string name="Message_NoResumesSelected">No resumes selected.</string>
+  <string name="Message_LoginRequired">Please login to continue.</string>
+  <string name="Message_InvalidCredentials">Invalid username or password.</string>
+  <string name="Message_NoSearchResults">No matching resumes found.</string>
+</resources>

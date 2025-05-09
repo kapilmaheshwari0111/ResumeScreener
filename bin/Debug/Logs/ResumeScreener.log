@@ -1,0 +1,204 @@
+﻿2025-03-11 08:16:41 [Info] Language file saved: Resources\en.xml
+2025-03-11 08:16:41 [Info] Language file saved: Resources\es.xml
+2025-03-11 08:16:41 [Info] Database file created
+2025-03-11 08:16:41 [Info] Database connection opened
+2025-03-11 08:16:41 [Info] Resumes table initialized
+2025-03-11 08:16:41 [Info] User created: admin
+2025-03-11 08:16:41 [Info] Admin user created with default credentials
+2025-03-11 08:16:41 [Info] Services initialized
+2025-03-11 08:17:16 [Info] User logged in: admin
+2025-03-11 08:17:16 [Info] User admin logged in successfully
+2025-03-11 08:17:16 [Info] Loaded 0 resumes from database
+2025-03-11 08:17:16 [Info] User logged in: admin with role Admin
+2025-03-11 08:17:23 [Info] CSV data loaded from C:\Users\Kapil Maheshwari\source\repos\ResumeScrenner\ResumeScrenner\resume1.csv
+2025-03-11 08:17:23 [Info] Loaded 10 resumes from database
+2025-03-11 08:17:31 [Info] Resumes sorted by Name
+2025-03-11 08:17:35 [Info] Resumes sorted by Score
+2025-03-11 08:17:38 [Info] Resumes sorted by Experience (Years)
+2025-03-11 08:19:28 [Info] Database connection closed
+2025-03-11 08:19:28 [Info] Application closed
+2025-03-11 08:19:34 [Info] Database connection opened
+2025-03-11 08:19:34 [Info] Resumes table initialized
+2025-03-11 08:19:34 [Info] Services initialized
+2025-03-11 08:19:46 [Info] User logged in: admin
+2025-03-11 08:19:46 [Info] User admin logged in successfully
+2025-03-11 08:19:46 [Info] Loaded 10 resumes from database
+2025-03-11 08:19:46 [Info] User logged in: admin with role Admin
+2025-03-11 08:20:03 [Info] Advanced search form opened
+2025-03-11 08:20:06 [Info] Language set to: es
+2025-03-11 08:20:07 [Info] Language changed to es
+2025-03-11 08:20:13 [Info] Language set to: en
+2025-03-11 08:20:13 [Info] Language changed to en
+2025-03-11 08:20:24 [Info] About dialog displayed
+2025-03-11 08:20:48 [Warning] Failed login attempt for user: admiin
+2025-03-11 08:20:50 [Warning] Failed login attempt for user admiin
+2025-03-11 08:20:56 [Warning] Failed login attempt for user: admiin
+2025-03-11 08:20:57 [Warning] Failed login attempt for user admiin
+2025-03-11 08:21:06 [Info] User logged in: admin
+2025-03-11 08:21:06 [Info] User admin logged in successfully
+2025-03-11 08:21:06 [Info] Loaded 10 resumes from database
+2025-03-11 08:21:06 [Info] User logged in: admin with role Admin
+2025-03-11 08:21:06 [Info] User logged out
+2025-03-11 08:21:21 [Info] Candidates ranked by score
+2025-03-11 08:21:25 [Info] Advanced search form opened
+2025-03-11 08:21:39 [Info] Login cancelled by user
+2025-03-11 08:21:39 [Info] Database connection closed
+2025-03-11 08:21:39 [Info] Application closed
+2025-03-11 08:21:39 [Info] User logged out
+2025-03-11 08:21:43 [Info] Database connection opened
+2025-03-11 08:21:43 [Info] Resumes table initialized
+2025-03-11 08:21:43 [Info] Services initialized
+2025-03-11 08:21:55 [Info] User logged in: admin
+2025-03-11 08:21:55 [Info] User admin logged in successfully
+2025-03-11 08:21:55 [Info] Loaded 10 resumes from database
+2025-03-11 08:21:55 [Info] User logged in: admin with role Admin
+2025-03-11 08:22:53 [Info] Database connection closed
+2025-03-11 08:22:53 [Info] Application closed
+2025-03-11 08:23:00 [Info] Database connection opened
+2025-03-11 08:23:00 [Info] Resumes table initialized
+2025-03-11 08:23:01 [Info] Services initialized
+2025-03-11 08:23:08 [Info] User logged in: admin
+2025-03-11 08:23:08 [Info] User admin logged in successfully
+2025-03-11 08:23:09 [Info] Loaded 10 resumes from database
+2025-03-11 08:23:09 [Info] User logged in: admin with role Admin
+2025-03-11 08:23:21 [Info] Resumes sorted by Score
+2025-03-11 08:23:36 [Info] Candidates ranked by score
+2025-03-11 08:23:41 [Info] Resumes sorted by Name
+2025-03-11 08:23:47 [Info] Language set to: es
+2025-03-11 08:23:48 [Info] Language changed to es
+2025-03-11 08:24:04 [Info] Advanced search form opened
+2025-03-11 08:35:21 [Info] Database connection opened
+2025-03-11 08:35:21 [Info] Resumes table initialized
+2025-03-11 08:35:21 [Info] Services initialized
+2025-03-11 08:35:27 [Info] Login cancelled by user
+2025-03-11 08:35:29 [Info] Database connection closed
+2025-03-11 08:35:29 [Info] Application closed
+2025-03-11 08:37:11 [Info] Database connection opened
+2025-03-11 08:37:11 [Info] Resumes table initialized
+2025-03-11 08:37:11 [Info] Services initialized
+2025-03-11 08:37:15 [Info] Login cancelled by user
+2025-03-11 08:37:20 [Info] Database connection closed
+2025-03-11 08:37:20 [Info] Application closed
+2025-03-11 08:37:24 [Info] Database connection opened
+2025-03-11 08:37:24 [Info] Resumes table initialized
+2025-03-11 08:37:24 [Info] Services initialized
+2025-03-11 08:37:34 [Warning] Failed login attempt for user: admin
+2025-03-11 08:37:35 [Warning] Failed login attempt for user admin
+2025-03-11 08:37:40 [Info] User logged in: admin
+2025-03-11 08:37:40 [Info] User admin logged in successfully
+2025-03-11 08:37:40 [Info] Loaded 10 resumes from database
+2025-03-11 08:37:40 [Info] User logged in: admin with role Admin
+2025-03-11 08:43:57 [Info] Database connection opened
+2025-03-11 08:43:57 [Info] Resumes table initialized
+2025-03-11 08:43:57 [Info] Services initialized
+2025-03-11 08:44:09 [Warning] Failed login attempt for user: admin
+2025-03-11 08:44:11 [Warning] Failed login attempt for user admin
+2025-03-11 08:44:16 [Info] User logged in: admin
+2025-03-11 08:44:16 [Info] User admin logged in successfully
+2025-03-11 08:44:16 [Info] Loaded 10 resumes from database
+2025-03-11 08:44:16 [Info] User logged in: admin with role Admin
+2025-03-11 08:44:31 [Info] About dialog displayed
+2025-03-11 08:44:34 [Info] Database connection closed
+2025-03-11 08:44:34 [Info] Application closed
+2025-03-11 08:45:21 [Info] Database connection opened
+2025-03-11 08:45:21 [Info] Resumes table initialized
+2025-03-11 08:45:21 [Info] Services initialized
+2025-03-11 08:45:24 [Info] Login cancelled by user
+2025-03-11 08:45:31 [Info] Database connection closed
+2025-03-11 08:45:31 [Info] Application closed
+2025-03-11 08:46:20 [Info] Database connection opened
+2025-03-11 08:46:20 [Info] Resumes table initialized
+2025-03-11 08:46:20 [Info] Services initialized
+2025-03-11 08:46:34 [Info] User logged in: admin
+2025-03-11 08:46:34 [Info] User admin logged in successfully
+2025-03-11 08:46:34 [Info] Loaded 10 resumes from database
+2025-03-11 08:46:34 [Info] User logged in: admin with role Admin
+2025-03-11 08:47:06 [Info] Log viewer opened
+2025-03-11 08:47:19 [Info] Language set to: en
+2025-03-11 08:47:19 [Info] Language changed to en
+2025-03-11 08:47:29 [Info] Database connection closed
+2025-03-11 08:47:29 [Info] Application closed
+2025-03-11 08:47:35 [Info] Database connection opened
+2025-03-11 08:47:35 [Info] Resumes table initialized
+2025-03-11 08:47:35 [Info] Services initialized
+2025-03-11 08:47:46 [Info] User logged in: admin
+2025-03-11 08:47:46 [Info] User admin logged in successfully
+2025-03-11 08:47:46 [Info] Loaded 10 resumes from database
+2025-03-11 08:47:46 [Info] User logged in: admin with role Admin
+2025-03-11 08:47:57 [Info] Advanced search form opened
+2025-03-11 08:48:43 [Info] Database connection closed
+2025-03-11 08:48:43 [Info] Application closed
+2025-03-11 08:48:52 [Info] Database connection opened
+2025-03-11 08:48:52 [Info] Resumes table initialized
+2025-03-11 08:48:52 [Info] Services initialized
+2025-03-11 08:49:37 [Info] User logged in: admin
+2025-03-11 08:49:37 [Info] User admin logged in successfully
+2025-03-11 08:49:37 [Info] Loaded 10 resumes from database
+2025-03-11 08:49:37 [Info] User logged in: admin with role Admin
+2025-03-11 08:51:58 [Info] Database connection opened
+2025-03-11 08:51:58 [Info] Resumes table initialized
+2025-03-11 08:51:58 [Info] Services initialized
+2025-03-11 08:52:08 [Info] User logged in: admin
+2025-03-11 08:52:08 [Info] User admin logged in successfully
+2025-03-11 08:52:09 [Info] Loaded 10 resumes from database
+2025-03-11 08:52:09 [Info] User logged in: admin with role Admin
+2025-03-11 08:52:21 [Info] Resumes sorted by Name
+2025-03-11 08:52:27 [Info] Resumes sorted by Score
+2025-03-11 08:52:38 [Info] Viewing resume details for ID 7
+2025-03-11 08:52:45 [Info] Language set to: es
+2025-03-11 08:52:45 [Info] Language changed to es
+2025-03-11 08:52:57 [Info] Language set to: en
+2025-03-11 08:52:57 [Info] Language changed to en
+2025-03-11 08:53:36 [Info] Advanced search form opened
+2025-03-11 08:53:46 [Info] Password change form opened
+2025-03-11 08:54:06 [Info] User logged in: admin
+2025-03-11 08:54:06 [Info] User admin logged in successfully
+2025-03-11 08:54:06 [Info] Loaded 10 resumes from database
+2025-03-11 08:54:06 [Info] User logged in: admin with role Admin
+2025-03-11 08:54:06 [Info] User logged out
+2025-03-11 08:55:22 [Info] Database connection closed
+2025-03-11 08:55:22 [Info] Application closed
+2025-03-20 20:58:22 [Info] Database connection opened
+2025-03-20 20:58:22 [Info] Resumes table initialized
+2025-03-20 20:58:22 [Info] Services initialized
+2025-03-20 20:58:31 [Info] User logged in: admin
+2025-03-20 20:58:31 [Info] User admin logged in successfully
+2025-03-20 20:58:31 [Info] Loaded 10 resumes from database
+2025-03-20 20:58:31 [Info] User logged in: admin with role Admin
+2025-03-20 20:58:44 [Info] Candidates ranked by score
+2025-03-20 20:58:53 [Info] Search performed for 'vikram', found 1 results
+2025-03-20 20:59:18 [Info] Resumes sorted by Score
+2025-03-20 20:59:37 [Info] Viewing resume details for ID 7
+2025-03-20 21:00:17 [Info] Database connection opened
+2025-03-20 21:00:17 [Info] Resumes table initialized
+2025-03-20 21:00:17 [Info] Services initialized
+2025-03-20 21:00:26 [Warning] Failed login attempt for user: admin
+2025-03-20 21:00:27 [Warning] Failed login attempt for user admin
+2025-03-20 21:00:31 [Info] User logged in: admin
+2025-03-20 21:00:31 [Info] User admin logged in successfully
+2025-03-20 21:00:31 [Info] Loaded 10 resumes from database
+2025-03-20 21:00:31 [Info] User logged in: admin with role Admin
+2025-03-20 21:00:59 [Info] Language set to: es
+2025-03-20 21:00:59 [Info] Language changed to es
+2025-03-20 21:01:06 [Info] About dialog displayed
+2025-03-20 21:01:10 [Info] Password change form opened
+2025-03-20 21:01:37 [Info] Advanced search form opened
+2025-03-20 21:01:46 [Info] Language set to: en
+2025-03-20 21:01:46 [Info] Language changed to en
+2025-03-20 21:01:50 [Info] Database connection closed
+2025-03-20 21:01:50 [Info] Application closed
+2025-03-20 23:00:58 [Info] Database connection opened
+2025-03-20 23:00:58 [Info] Resumes table initialized
+2025-03-20 23:00:58 [Info] Services initialized
+2025-03-20 23:01:07 [Info] User logged in: admin
+2025-03-20 23:01:07 [Info] User admin logged in successfully
+2025-03-20 23:01:07 [Info] Loaded 10 resumes from database
+2025-03-20 23:01:07 [Info] User logged in: admin with role Admin
+2025-03-20 23:01:50 [Info] Database connection closed
+2025-03-20 23:01:50 [Info] Application closed
+2025-05-09 14:49:01 [Info] Database connection opened
+2025-05-09 14:49:01 [Info] Resumes table initialized
+2025-05-09 14:49:02 [Info] Services initialized
+2025-05-09 14:50:42 [Info] Login cancelled by user
+2025-05-09 14:50:43 [Info] Database connection closed
+2025-05-09 14:50:43 [Info] Application closed
